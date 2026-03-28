@@ -42,19 +42,6 @@
 
 ---
 
-## 🌐 Let's Work Together
-
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 💬 Quote
 
 <p align="center">
