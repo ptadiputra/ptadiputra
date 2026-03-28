@@ -42,14 +42,6 @@
 
 ---
 
-## 💬 Quote
-
-<p align="center">
-  <i>"Build something people actually use."</i>
-</p>
-
----
-
 <p align="center">
 ⭐ If you like my work, feel free to connect or hire me 🚀
 </p>
