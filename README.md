@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Adi Putra
 
-<!--
-**ptadiputra/ptadiputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer & Freelance
+🚀 Building scalable web & mobile applications
+📍 Indonesia
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
+🔭 Currently working as a Full Stack Developer
+💼 Open for Freelance & Remote Opportunities
+🌱 Currently learning System Design & Scalable Architecture
+💬 Ask me about Laravel, React, Go, REST API
+⚡ Passionate about building real-world solutions & digital products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+📊 GitHub Stats
+🔥 Streak Stats
+🏆 Achievements
+👀 Profile Views
+🌐 Let's Work Together
+💬 Quote
